@@ -38,6 +38,10 @@ The task should appear as Running and later as Done.
 
 <img src="http://i.imgur.com/5JmHzAg.png"/>
 
+### Cronjobs
+
+Luigi doesn't handle regularly scheduled jobs... better to handle that with the cronjob
+
 ## License
 
 MIT license
